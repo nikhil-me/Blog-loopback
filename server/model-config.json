@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Blog": {
+    "dataSource": "blogloopback",
+    "public": true
   }
 }
